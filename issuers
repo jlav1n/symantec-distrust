@@ -1,0 +1,58 @@
+C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+C=US/O=VeriSign/Inc./OU=VeriSign Trust Network/OU=(c) 2008 VeriSign/Inc. - For authorized use only/CN=VeriSign Universal Root Certification Authority
+C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA II
+C=US/O=RSA Data Security/Inc./OU=Secure Server Certification Authority
+C=US/O=Equifax Secure/OU=Equifax Secure eBusiness CA-2
+C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA III
+C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 4 CA/CN=TC TrustCenter Class 4 CA II
+C=US/O=VeriSign/Inc./OU=Class 1 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign/Inc. - For authorized use only/OU=VeriSign Trust Network
+C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 1 Public Primary Certification Authority - G4
+C=US/O=GeoTrust Inc./CN=GeoTrust Primary Certification Authority
+C=US/O=VeriSign/Inc./OU=Class 2 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign/Inc. - For authorized use only/OU=VeriSign Trust Network
+C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+C=US/O=VeriSign/Inc./OU=Class 4 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign/Inc. - For authorized use only/OU=VeriSign Trust Network
+C=US/O=thawte/Inc./OU=Certification Services Division/OU=(c) 2008 thawte/Inc. - For authorized use only/CN=thawte Primary Root CA - G3
+C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Public Primary Certification Authority - G4
+C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting/OU=Certification Services Division/CN=Thawte Personal Freemail CA/emailAddress=personal-freemail@thawte.com
+C=US/O=GeoTrust Inc./OU=(c) 2007 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G2
+C=US/O=Equifax Secure Inc./CN=Equifax Secure Global eBusiness CA-1
+C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 1 CA/emailAddress=certificate@trustcenter.de
+C=US/O=VeriSign/Inc./OU=VeriSign Trust Network/OU=(c) 2007 VeriSign/Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G4
+C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 3 CA/emailAddress=certificate@trustcenter.de
+C=US/O=VeriSign/Inc./OU=Class 3 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign/Inc. - For authorized use only/OU=VeriSign Trust Network
+C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Server CA/emailAddress=server-certs@thawte.com
+C=US/O=thawte/Inc./OU=Certification Services Division/OU=(c) 2006 thawte/Inc. - For authorized use only/CN=thawte Primary Root CA
+C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 4 CA/emailAddress=certificate@trustcenter.de
+C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 2 CA/emailAddress=certificate@trustcenter.de
+C=US/O=VeriSign/Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign/Inc. - For authorized use only/CN=VeriSign Class 2 Public Primary Certification Authority - G3
+C=US/O=VeriSign/Inc./OU=Class 2 Public Primary Certification Authority
+C=US/O=VeriSign/Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign/Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 1 Public Primary Certification Authority - G6
+C=US/O=GeoTrust Inc./OU=(c) 2012 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G4
+C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA 2
+C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA
+C=US/O=thawte/Inc./OU=(c) 2007 thawte/Inc. - For authorized use only/CN=thawte Primary Root CA - G2
+C=US/O=VeriSign/Inc./OU=Class 3 Public Primary Certification Authority
+C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Public Primary Certification Authority - G6
+C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Time Stamping CA/CN=TC TrustCenter Time Stamping CA
+C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 1 Public Primary Certification Authority - G7
+C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Network Applications
+C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 Public Primary Certification Authority - G7
+C=US/O=GeoTrust Inc./CN=GeoTrust Global CA 2
+C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 2 Public Primary Certification Authority - G6
+C=ZA/ST=Western Cape/L=Durbanville/O=Thawte/OU=Thawte Certification/CN=Thawte Timestamping CA
+C=US/O=thawte/Inc./OU=Certification Services Division/OU=(c) 2012 thawte/Inc. - For authorized use only/CN=thawte Primary Root CA - G4
+C=US/O=VeriSign/Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign/Inc. - For authorized use only/CN=VeriSign Class 1 Public Primary Certification Authority - G3
+C=US/O=Equifax Secure Inc./CN=Equifax Secure eBusiness CA-1
+C=US/O=VeriSign/Inc./OU=Class 1 Public Primary Certification Authority
+C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 2 Public Primary Certification Authority - G7
+C=US/O=VeriSign/Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign/Inc. - For authorized use only/CN=VeriSign Class 4 Public Primary Certification Authority - G3
+C=US/O=Symantec Corporation/CN=Symantec Enterprise Mobile Root for Microsoft
+C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 2 CA/CN=TC TrustCenter Class 2 CA II
+C=US/O=VeriSign/Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign/Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G3
+C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA I
+C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting/OU=Certification Services Division/CN=Thawte Personal Premium CA/emailAddress=personal-premium@thawte.com
+C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting/OU=Certification Services Division/CN=Thawte Personal Basic CA/emailAddress=personal-basic@thawte.com
+C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 2 Public Primary Certification Authority - G4
+C=US/O=GeoTrust Inc./CN=GeoTrust Global CA

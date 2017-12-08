@@ -1,0 +1,10 @@
+1. Extract issuers: `1gen.sh`
+
+2. Compile list of sites in "sites", run `2get_ssh.sh`
+
+3. Run `3check.sh`
+
+4. Run `4expiry.sh`
+
+Source:
+https://chromium.googlesource.com/chromium/src/+/master/net/data/ssl/symantec/roots/
